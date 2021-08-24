@@ -1,0 +1,11 @@
+title: "Switches the Bitrise Android step to Java 11"
+summary: This step switches the Android stack to OpenJDK 11
+description: This step switches the Android stack to OpenJDK 11
+website: https://github.com/chedabob/bitrise_java11switch_android
+source_code_url: https://github.com/chedabob/bitrise_java11switch_android
+project_type_tags:
+  - android
+is_requires_admin_user: true
+is_always_run: false
+is_skippable: false
+run_if: "" 
